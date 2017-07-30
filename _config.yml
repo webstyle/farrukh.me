@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Farrukh Mamatkhalilov
+bio: JavaScript, Node.js Developer
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://webstyle.github.io/farrukh.xyz-test/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,28 +34,27 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: mfarrukh26
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: webstyle
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: mfarrukh
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: hello@farrukh.xyz
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Farrukh Mamatkhalilov
+        bio: JavaScript, Node.js Developer
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
