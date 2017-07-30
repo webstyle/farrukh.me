@@ -1,1 +1,1 @@
-# farrukh.xyz
+# [farrukh.xyz](http://farrukh.xyz)
