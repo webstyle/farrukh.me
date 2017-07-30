@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://webstyle.github.io/farrukh.xyz-test/
+url: http:///farrukh.xyz/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
