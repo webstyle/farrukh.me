@@ -61,6 +61,7 @@ let (a = 2, b, c) {
     var a;
     let b;
 }
+```
 ---
 #### const - o'zgaruvchini konstanta ko'rinishida ishlatish mumkin
 1 misol: 
