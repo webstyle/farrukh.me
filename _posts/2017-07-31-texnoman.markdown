@@ -1,0 +1,34 @@
+---
+title: ":ramen: Texnoman.uz"
+layout: post
+date: 2017-07-31 17:06
+tag: texnoman
+image: https://texnoman.uz/assets/f34f850/images/logo.png
+headerImage: true
+projects: true
+hidden: true 
+description: "Texnoman.uz loyihasi haqida ikki og'iz gaplar :)"
+category: project
+author: farrukh
+externalLink: false
+---
+
+![Screenshot](assets/images/texnoman.png)
+
+[Texnoman](https://texnoman.uz) - loyihasi axborot texnologiyalari, Internet, ijtimoiy media, Uznet, yuqori texnologiyalar, mobil qurilmalar hamda texnologiyalar bilan bog'liq kompaniyalar haqida yangiliklar, tahliliy maqolalar, xabarlar, ma'lumot berib borishga mo'ljallangan.
+
+Loyihadan maqsad, o'zbek tilida texnologiyalar olamiga oid eng so'nggi yangiliklarni berib borish, biron mavzu doirasida tahlillar olib borish, foydalanuvchilar hamda o'quvchilar fikrlarini doimo inobatga olgan holda Uznet rivojiga hissa qo'shib borishdir. Eng asosiy maqsad esa, o'zbek yoshlarimizni texnologik saviyasini oshirish, yangiliklardan xabardor qilib turish, axborot texnologiyalariga oid bilimlarini kengaytirish va tajriba almashishdan iborat.
+
+---
+
+What has inside?
+
+- Yii1
+- MySQL
+- jQuery
+
+---
+
+[Texnomanchilar](https://telegram.me/texnomanuz) - Telegramdagi saytimiz a'zolarni suhbat qurishi va ma'lumot almashishi uchun yaratilgan guruh.
+
+[@texnoman](https://telegram.me/texnoman) - Telegramdagi rasmiy kanal.
