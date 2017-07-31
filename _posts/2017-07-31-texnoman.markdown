@@ -11,6 +11,7 @@ description: "Texnoman.uz loyihasi haqida ikki og'iz gaplar :)"
 category: project
 author: farrukh
 externalLink: false
+comments: true
 ---
 
 ![Screenshot](http://farrukh.xyz/assets/images/texnoman.png)

@@ -11,6 +11,7 @@ star: true
 category: blog
 author: farrukh
 description: Hello
+comments: true
 ---
 
 ## Hello World:
