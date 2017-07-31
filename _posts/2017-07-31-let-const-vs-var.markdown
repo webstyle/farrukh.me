@@ -20,7 +20,7 @@ comments: true
 
 # let, const vs var:
 
-ES6da o'zgaruvchilarni e'lon qilish uchun uchun yangi let va constlarni qo'shilgani bilsangiz kerak.
+ES6da o'zgaruvchilarni e'lon qilish uchun yangi let va constlarni qo'shilgani bilsangiz kerak.
 Ho'sh ularni oddiy vardan nima farqi bor ekan ? 
 
 ---
