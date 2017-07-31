@@ -79,6 +79,7 @@ a = 2; // TypeError!
 
     a = 1; // TypeError!
 }
+```
 ---
 ### Foydali ma'lumotlar
 - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
