@@ -1,5 +1,5 @@
 ---
-title: ":ramen: Texnoman.uz"
+title: ":star: Texnoman.uz"
 layout: post
 date: 2017-07-31 17:06
 tag: texnoman
@@ -13,7 +13,7 @@ author: farrukh
 externalLink: false
 ---
 
-![Screenshot](assets/images/texnoman.png)
+![Screenshot](http://farrukh.xyz/assets/images/texnoman.png)
 
 [Texnoman](https://texnoman.uz) - loyihasi axborot texnologiyalari, Internet, ijtimoiy media, Uznet, yuqori texnologiyalar, mobil qurilmalar hamda texnologiyalar bilan bog'liq kompaniyalar haqida yangiliklar, tahliliy maqolalar, xabarlar, ma'lumot berib borishga mo'ljallangan.
 
