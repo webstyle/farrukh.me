@@ -1,5 +1,5 @@
 ---
-title: ":star: Texnoman.uz"
+title: "Texnoman.uz"
 layout: post
 date: 2017-07-31 17:06
 tag: texnoman
