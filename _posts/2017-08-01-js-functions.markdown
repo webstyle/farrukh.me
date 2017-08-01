@@ -19,32 +19,32 @@ Ushbu kichik maqolada JavaScriptda funksiyalarni e'lon qilishning bir necha usul
 ---
 
 Misol 1:
-```javascript
+{% highlight js %}
 function greeting(name) {
     return `Hello ${name}`;
 }
-```
+{% endhighlight %}
 
 Misol 2:
-```javascript
+{% highlight js %}
 const greeting = function(name) {
     return `Hello ${name}`;
 }
-```
+{% endhighlight %}
 
 Misol 3:
-```javascript 
+{% highlight js %} 
 const greeting = name => `Hello ${name}`;
-```
+{% endhighlight %}
 
 Misol 4:
-```javascript
+{% highlight js %}
 const greeting = anotherGreeting;
 
 function anotherGreeting(name) {
     return `Hello ${name}`;
 }
-```
+{% endhighlight %}
 
 ---
 ### Foydali ma'lumotlar

@@ -26,34 +26,34 @@ Ho'sh ularni oddiy vardan nima farqi bor ekan ?
 ---
 #### let - scope ichida lokal o'zgurchi yaratish mumkin
 1 misol:
-```javascript
+{% highlight js %}
 var a = 10;
 if (true) {
     let a = 5;
     console.log(5); // 5
 }
 console.log(a); // 10
-```
+{% endhighlight %}
 
 2 misol:
-```javascript
+{% highlight js %}
 var a = 2;
 {
     let a = 3;
     console.log( a ); // 3
 }
 console.log( a ); //2
-``` 
+{% endhighlight %} 
 
 3 misol:
-```javascript
+{% highlight js %}
 let (a = 2, b, c) {
     // .. 
 }
-```
+{% endhighlight %}
 
 4 misol:
-```javascript
+{% highlight js %}
 {
     console.log(a); // o'zgaruvchining qiymati hali aniqlanmagan
     console.log(b); // ReferenceError o'zgaruvchi hali e'lon qilinmagan
@@ -61,18 +61,18 @@ let (a = 2, b, c) {
     var a;
     let b;
 }
-```
+{% endhighlight %}
 ---
 #### const - o'zgaruvchini konstanta ko'rinishida ishlatish mumkin
 1 misol: 
-```javascript
+{% highlight js %}
 const a = 1;
 
 a = 2; // TypeError!
-```
+{% endhighlight %}
 
 2 misol: 
-```javascript
+{% highlight js %}
 {
     const a = [1, 2, 3];
     a.push(4);
@@ -80,7 +80,7 @@ a = 2; // TypeError!
 
     a = 1; // TypeError!
 }
-```
+{% endhighlight %}
 ---
 ### Foydali ma'lumotlar
 - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/tree/master/es6%20%26%20beyond)
