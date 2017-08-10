@@ -23,14 +23,10 @@ EcmaScriptning eski versiyalarida *string*ning ichiga bironta o'zgaruvchi yoki f
 
 Yoki ko'p qatorli(multi line) string yozmoqchi bo'lganda esa:
 
-{% highlight raw %}
-{ % gist WebStyle/8688987639217a7fddfdaf6622513cfd % }
-{% endhighlight %}
+<script src="https://gist.github.com/WebStyle/8688987639217a7fddfdaf6622513cfd.js"></script>
 
 ---
 ES6da esa string interpolation imkoniyati qo'shildi.
 Endi yuqorida ko'rsatilgan kodlarni quyidagi ko'rinishda yozish mumkin.
 
-{% highlight raw %}
-{ % gist WebStyle/88c5e5b5f77d22e469ad56f73d1f4d15 % }
-{% endhighlight %}
+<script src="https://gist.github.com/WebStyle/88c5e5b5f77d22e469ad56f73d1f4d15.js"></script>
