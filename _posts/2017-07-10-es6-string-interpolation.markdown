@@ -19,10 +19,7 @@ comments: true
 ## Muammo?:
 EcmaScriptning eski versiyalarida *string*ning ichiga bironta o'zgaruvchi yoki funksiyadan qaytayotgan qiymati ishlatish uchun quyidagicha ko'rinishda kod yozar edik:
 
-{% highlight raw %}
-{ % gist WebStyle/f17d4bd6d5fc49c9f3c13cda18633367 % }
-{% endhighlight %}
-
+<script src="https://gist.github.com/WebStyle/f17d4bd6d5fc49c9f3c13cda18633367.js"></script>
 
 Yoki ko'p qatorli(multi line) string yozmoqchi bo'lganda esa:
 
