@@ -9,13 +9,14 @@ layout: page
 <p>I studied and learned programming at <a target="_blank" href="http://mktk.uz">MKTK</a> also I worked at NewMax Technologies LLC in 2015-2016.
 </p>
 <p>
-<img src="http://storage.vot.uz/source/1/XHbo1IgzfS6OoSy7QsUE0Hok5IPqiK3N.jpg" alt="NewMax Technologies" />
+<img class="image" src="http://storage.vot.uz/source/1/XHbo1IgzfS6OoSy7QsUE0Hok5IPqiK3N.jpg" alt="NewMax Technologies" />
+<figcaption class="caption">Photo by VOT</figcaption>
 </p>
 <p>
 Durning these years I learned web technologies and worked in projects like <a target="_blank" href="http://workly.io">Workly.io</a>, <a href="https://www.farrukh.xyz/texnoman/">Texnoman.uz</a>.
 </p>
-<img src="https://texnoman.uz/uploads/image/f390cf529877c694e172de07684ba98b.jpg" alt="Texnoman at Mit.uz 2016" />
-<quoute>Mit.uz 2016 winner.</quoute>
+<img class="image" src="https://texnoman.uz/uploads/image/f390cf529877c694e172de07684ba98b.jpg" alt="Texnoman at Mit.uz 2016" />
+<figcaption class="caption">Mit.uz 2016 winner.</figcaption>
 
 <h2>Software development skills</h2>
 
