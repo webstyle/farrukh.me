@@ -12,8 +12,10 @@ layout: page
 <img src="http://storage.vot.uz/source/1/XHbo1IgzfS6OoSy7QsUE0Hok5IPqiK3N.jpg" alt="NewMax Technologies" />
 </p>
 <p>
-Durning these years I learned web technologies and worked in projects like <a target="_blank" href="http://workly.io">Workly.io</a>, <a target="_blank" href="https://texnoman.uz">Texnoman.uz</a>.
+Durning these years I learned web technologies and worked in projects like <a target="_blank" href="http://workly.io">Workly.io</a>, <a href="https://www.farrukh.xyz/texnoman/">Texnoman.uz</a>.
 </p>
+<img src="https://texnoman.uz/uploads/image/f390cf529877c694e172de07684ba98b.jpg" alt="Texnoman at Mit.uz 2016" />
+<quoute>Mit.uz 2016 winner.</quoute>
 
 <h2>Software development skills</h2>
 
