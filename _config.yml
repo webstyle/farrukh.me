@@ -3,7 +3,7 @@ name: Farrukh Mamatkhalilov
 bio: JavaScript, Node.js Developer
 
 # twitter summary info
-description: A blog about technology and my life stories.
+description: This blog about technologies and my life stories.
 
 # if it's an external image, update below for true
 # better with square images
@@ -65,8 +65,8 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
 projects: true
