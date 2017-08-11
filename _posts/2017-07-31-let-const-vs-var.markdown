@@ -30,7 +30,7 @@ Ho'sh ularni oddiy vardan nima farqi bor ekan ?
 var a = 10;
 if (true) {
     let a = 5;
-    console.log(5); // 5
+    console.log(a); // 5
 }
 console.log(a); // 10
 {% endhighlight %}
