@@ -29,7 +29,8 @@ Durning these years I learned web technologies and worked in projects like <a ta
 	<li>MongoDB, MySQL, PostgreSQL</li>
 	<li>Microservices, Monolithic</li>
 	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>TDD</li>
+	<li>Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
