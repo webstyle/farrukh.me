@@ -26,7 +26,7 @@ sozlab chiqib katta vaqt olmaydi.
 
 #### Markazlashtirilgan
 Supervisor barcha processlarni bir joydan boshqarish ya'ni `{start|stop|restart}` va monitoring qilish imkoniyatini beradi.
-Proccsslar guruhlarga bo'lingan holda yoki individual boshqarishingiz mumkin. Bularning barchasini veb interfeys orqali bajarishingiz
+Processlar guruhlarga bo'lingan holda yoki individual boshqarishingiz mumkin. Bularning barchasini veb interfeys orqali bajarishingiz
 mumkin.
 
 #### Mutanosiblik
