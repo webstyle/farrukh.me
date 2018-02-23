@@ -6,7 +6,10 @@ image: /assets/images/supervisor.png
 headerImage: true
 tag:
 - supervisor
+- supervisord
+- supervisorctl
 - process control
+- process management
 star: true
 category: blog
 author: farrukh
