@@ -2,7 +2,7 @@
 title: "Salom Supervisor!!!"
 layout: post
 date: 2018-02-24 00:18
-image: /assets/images/supervisor.jpg
+image: /assets/images/supervisor.png
 headerImage: true
 tag:
 - supervisor
