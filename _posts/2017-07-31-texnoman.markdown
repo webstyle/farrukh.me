@@ -14,7 +14,7 @@ externalLink: false
 comments: true
 ---
 
-![Screenshot](http://farrukh.xyz/assets/images/texnoman.png)
+![Screenshot](http://farrukh.me/assets/images/texnoman.png)
 
 [Texnoman](https://texnoman.uz) - loyihasi axborot texnologiyalari, Internet, ijtimoiy media, Uznet, yuqori texnologiyalar, mobil qurilmalar hamda texnologiyalar bilan bog'liq kompaniyalar haqida yangiliklar, tahliliy maqolalar, xabarlar, ma'lumot berib borishga mo'ljallangan.
 
