@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi, dear visitor, this page is about me. I'm twenty years old and a software developer.</p>
+<p>Hi, dear visitor, this page is about me. I'm twenty one years old and a software developer.</p>
 
 <p>I studied and learned programming at <a target="_blank" href="http://mktk.uz">MKTK</a> also I worked at NewMax Technologies LLC in 2015-2016.
 </p>
