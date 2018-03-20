@@ -13,7 +13,7 @@ layout: page
 <figcaption class="caption">Photo by VOT</figcaption>
 </p>
 <p>
-Durning these years I learned web technologies and worked in projects like <a target="_blank" href="http://workly.io">Workly.io</a>, <a href="https://www.farrukh.xyz/texnoman/">Texnoman.uz</a>.
+During these years I learned web technologies and worked in projects like <a target="_blank" href="http://workly.io">Workly.io</a>, <a href="https://www.farrukh.xyz/texnoman/">Texnoman.uz</a>.
 </p>
 <img class="image" src="https://texnoman.uz/uploads/image/f390cf529877c694e172de07684ba98b.jpg" alt="Texnoman at Mit.uz 2016" />
 <figcaption class="caption">Mit.uz 2016 winner.</figcaption>
